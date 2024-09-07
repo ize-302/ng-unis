@@ -1,0 +1,40 @@
+{
+  "name": "@i-302/ng-unis",
+  "version": "0.0.0-development",
+  "exports": "./index.js",
+  "main": "index.js",
+  "author": {
+    "name": "ize-302",
+    "url": "https://github.com/ize-302",
+    "email": "adavize302@gmail.com"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ize-302/ng-unis"
+  },
+  "homepage": "https://github.com/ize-302/ng-unis",
+  "keywords": [
+    "nigeria",
+    "universities",
+    "faculties",
+    "departments"
+  ],
+  "license": "MIT",
+  "description": "A package for retrieving details of Nigerian universities including; name, related faculties and departments",
+  "type": "module",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^10.3.3",
+    "semantic-release": "^24.1.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

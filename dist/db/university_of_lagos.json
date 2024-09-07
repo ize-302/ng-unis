@@ -1,0 +1,174 @@
+{
+  "id": "university_of_lagos",
+  "name": "University of Lagos (UNILAG)",
+  "faculties": [
+    {
+      "id": "university_of_lagos__arts",
+      "name": "arts",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "creative arts",
+        "english",
+        "european language and integrated studies",
+        "history and strategic studies",
+        "philosophy",
+        "religious studies",
+        "linguistics, african and asian studies"
+      ]
+    },
+    {
+      "id": "university_of_lagos__basic_medical_sciences",
+      "name": "basic medical sciences",
+      "icon": "i-material-symbols:medical-services",
+      "departments": [
+        "anatomy",
+        "anatomic and molecular pathology",
+        "biochemistry",
+        "medical laboratory science",
+        "medical microbiology and parasitology",
+        "pharmacology, therapeutics and toxicology",
+        "physiology"
+      ]
+    },
+    {
+      "id": "university_of_lagos__clinical_sciences",
+      "name": "clinical sciences",
+      "icon": "i-uis:clinic-medical",
+      "departments": [
+        "anaesthesia",
+        "clincial pathology",
+        "community health and primary health care",
+        "haematology blood transfusion",
+        "medicine",
+        "nursing science",
+        "obstretics and gynaecology",
+        "ophtamology",
+        "paediatrics",
+        "physiotherapy",
+        "psychiatry",
+        "surgery",
+        "radiation biology, radiotherapy, radiodiagnostics and radiography"
+      ]
+    },
+    {
+      "id": "university_of_lagos__dental_sciences",
+      "name": "dental sciences",
+      "icon": "i-mingcute:dental-fill",
+      "departments": [
+        "child dental health",
+        "preventive dentistry",
+        "restorative dentistry",
+        "oral and maxillofacial surgery",
+        "oral and maxillofacial pathology"
+      ]
+    },
+    {
+      "id": "university_of_lagos__education",
+      "name": "education",
+      "icon": "i-streamline:quality-education-solid",
+      "departments": [
+        "adult education",
+        "educational management",
+        "educational foundation",
+        "human kinetics and health education",
+        "arts and social science",
+        "science and technology"
+      ]
+    },
+    {
+      "id": "university_of_lagos__environmental_sciences",
+      "name": "environmental sciences",
+      "icon": "i-material-symbols:source-environment",
+      "departments": [
+        "architecture",
+        "building",
+        "estate management",
+        "quantity surveying",
+        "urban and regional planning"
+      ]
+    },
+    {
+      "id": "university_of_lagos__law",
+      "name": "law",
+      "icon": "i-octicon:law-16",
+      "departments": [
+        "commercial and industrial law",
+        "jurisprundence and international law",
+        "private and property law",
+        "public law"
+      ]
+    },
+    {
+      "id": "university_of_lagos__management_sciences",
+      "name": "management sciences",
+      "icon": "i-material-symbols:business-center-sharp",
+      "departments": [
+        "accounting",
+        "acturial science and insurance",
+        "banking and finance",
+        "business administration",
+        "industrial relations and personnel management"
+      ]
+    },
+    {
+      "id": "university_of_lagos__pharmacy",
+      "name": "pharmacy",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "clinical pharmacy",
+        "pharm and pharm tech",
+        "pharmaceutical chemistry",
+        "pharmacognosy",
+        "pharm micro and biotech"
+      ]
+    },
+    {
+      "id": "university_of_lagos__sciences",
+      "name": "sciences",
+      "icon": "i-material-symbols:science",
+      "departments": [
+        "biochemistry",
+        "botany",
+        "cell biology and genetics",
+        "chemistry",
+        "computer sciences",
+        "geoscience",
+        "marine sciences",
+        "mathemtics",
+        "microbiology",
+        "physics",
+        "zoology",
+        "statistics"
+      ]
+    },
+    {
+      "id": "university_of_lagos__social_sciences",
+      "name": "social sciences",
+      "icon": "i-fluent:people-audience-24-filled",
+      "departments": [
+        "economics",
+        "geography",
+        "mass communication",
+        "political science",
+        "psychology",
+        "social work",
+        "sociology"
+      ]
+    },
+    {
+      "id": "university_of_lagos__engineering",
+      "name": "engineering",
+      "icon": "i-material-symbols:engineering-rounded",
+      "departments": [
+        "biomedical engineering",
+        "chemical engineering",
+        "civil and environmental engineering",
+        "electrical and electronics engineering",
+        "mechanical engineering",
+        "systems engineering",
+        "surveying and geo-informatics",
+        "metallurgical and materials engineering"
+      ]
+    }
+  ]
+}

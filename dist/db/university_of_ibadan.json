@@ -1,0 +1,64 @@
+{
+  "id": "university_of_ibadan",
+  "name": "University of Ibadan",
+  "faculties": [
+    {
+      "id": "university_of_ibadan__arts",
+      "name": "arts",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "arabic and islamic studies",
+        "archaeology and anthropology",
+        "classics",
+        "communication and language arts",
+        "english",
+        "european studies",
+        "linguistics and african languages",
+        "history",
+        "music",
+        "philosophy",
+        "religious studies",
+        "thearter arts"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__agriculture",
+      "name": "agriculture",
+      "icon": "i-material-symbols:potted-plant-sharp",
+      "departments": [
+        "agricultural economics",
+        "agricultural extension and rural development",
+        "animal science",
+        "crop protection and environmental biology",
+        "teaching and research farm",
+        "crop and horticultural science",
+        "soil resources management"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__basic_clinical_sciences",
+      "name": "basic clinical sciences",
+      "icon": "i-uis:clinic-medical",
+      "departments": [
+        "pathology",
+        "chemical pathology",
+        "haematology",
+        "medical microbiology and parasitology",
+        "pharmacology and therapeutics"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__basic_medical_sciences",
+      "name": "basic medical sciences",
+      "icon": "i-material-symbols:medical-services",
+      "departments": [
+        "anatomy",
+        "biochemistry",
+        "biomedical laboratory sciences",
+        "immunology",
+        "physiology",
+        "virology"
+      ]
+    }
+  ]
+}
