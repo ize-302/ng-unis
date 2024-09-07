@@ -1,0 +1,21 @@
+name: Spell checking
+
+on:
+  pull_request_target:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Spell checking
+    permissions:
+      contents: read
+      pull-requests: read
+      actions: read
+      security-events: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: check-spelling/check-spelling@prerelease
+        with:
+          experimental_apply_changes_via_bot: 1
+          checkout: true
