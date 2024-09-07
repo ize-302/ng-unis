@@ -1,0 +1,212 @@
+{
+  "id": "university_of_benin",
+  "name": "University of Benin",
+  "faculties": [
+    {
+      "id": "university_of_benin__agriculture",
+      "name": "agriculture",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "soil science",
+        "crop science",
+        "animal science",
+        "agricultural economics and extension services",
+        "fisheries",
+        "forestry and wildlife"
+      ]
+    },
+    {
+      "id": "university_of_benin__arts",
+      "name": "arts",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "english and literature",
+        "foreign languages",
+        "history and international studies",
+        "linguistics studies",
+        "theatre arts",
+        "philosophy",
+        "mass communication",
+        "students art and design exhibition"
+      ]
+    },
+    {
+      "id": "university_of_benin__medical_sciences",
+      "name": "medical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "mental health",
+        "medical microbiology",
+        "medicine",
+        "chemical pathology",
+        "clinical pharmacology and therapeutics",
+        "obstetrics and gynaeconology",
+        "pathology",
+        "family medicine",
+        "haematology",
+        "ophthalmology",
+        "child health",
+        "community health and information guide"
+      ]
+    },
+    {
+      "id": "university_of_benin__dentistry",
+      "name": "dentistry",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "restorative dentistry",
+        "preventive dentistry",
+        "peroidnotics dentistry",
+        "oral surgery and pathology",
+        "oral diagnosis and radiology"
+      ]
+    },
+    {
+      "id": "university_of_benin__education",
+      "name": "education",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "curriculum and instructural technology",
+        "educational management",
+        "adult education",
+        "health safety and environmental education"
+      ]
+    },
+    {
+      "id": "university_of_benin__engineering",
+      "name": "engineering",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "chemical engineering",
+        "civil engineering",
+        "computer engineering",
+        "electrical and electronics engineering",
+        "mechanical engineering",
+        "petroleum engineering",
+        "production engineering",
+        "metallurgical and materials engineering"
+      ]
+    },
+    {
+      "id": "university_of_benin__environmental_sciences",
+      "name": "environmental sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "architecture",
+        "estate management",
+        "geomatics",
+        "fine art",
+        "quantity surveying"
+      ]
+    },
+    {
+      "id": "university_of_benin__law",
+      "name": "law",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "business law",
+        "jurisprudence and international law",
+        "private and property law",
+        "public law"
+      ]
+    },
+    {
+      "id": "university_of_benin__life_sciences",
+      "name": "life sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "animal and environmental biology",
+        "biochemistry",
+        "microbiology",
+        "optometry",
+        "plant biology and biotechnology",
+        "environmental management and toxicology",
+        "science laboratory technology"
+      ]
+    },
+    {
+      "id": "university_of_benin__management_sciences",
+      "name": "management sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "accounting",
+        "taxation",
+        "banking and finance",
+        "actuarial sciences",
+        "business admistration",
+        "insurance",
+        "human resource management",
+        "marketing",
+        "entrepreneurship"
+      ]
+    },
+    {
+      "id": "university_of_benin__pharmacy",
+      "name": "pharmacy",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "clinical pharmacy and pharmacy practice",
+        "pharmaceutical and chemistry",
+        "pharm microbiology and biotechnology",
+        "pharmaceutics and pharmaceutical technology",
+        "pharmacognosy",
+        "pharmacology and toxicology"
+      ]
+    },
+    {
+      "id": "university_of_benin__physical_sciences",
+      "name": "physical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "chemistry",
+        "computer science",
+        "geology",
+        "mathematics",
+        "physics",
+        "statistics"
+      ]
+    },
+    {
+      "id": "university_of_benin__social_sciences",
+      "name": "social sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "sociology and anthropology",
+        "social work",
+        "public administration",
+        "political science",
+        "geography and regiional planning",
+        "economics"
+      ]
+    },
+    {
+      "id": "university_of_benin__school_of_medicine",
+      "name": "school of medicine",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "anaesthesiology",
+        "chemical pathology",
+        "community health",
+        "haematology",
+        "medical microbiology"
+      ]
+    },
+    {
+      "id": "university_of_benin__veterinary_medicine",
+      "name": "veterinary medicine",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "veterinary obstetrics",
+        "veterinary medicine",
+        "veterinary surgery and radiology",
+        "veterinary anatomy",
+        "veterinary microbiology",
+        "veterinary pathology",
+        "veterinary public health",
+        "veterinary parasitology",
+        "veterinary pharmacology and toxicology",
+        "veterinary physiology and biochemistry"
+      ]
+    }
+  ]
+}
