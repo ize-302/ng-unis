@@ -22,12 +22,10 @@
     "faculties",
     "departments"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "description": "A package for retrieving details of Nigerian universities including; name, related faculties and departments",
   "type": "module",
   "devDependencies": {
-    "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^10.3.3",
     "semantic-release": "^24.1.0"
   },
   "files": [
