@@ -9,7 +9,8 @@
     "email": "adavize302@gmail.com"
   },
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -26,7 +27,13 @@
   "description": "A package for retrieving details of Nigerian universities including; name, related faculties and departments",
   "type": "module",
   "devDependencies": {
-    "semantic-release": "^24.1.0"
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-loader": "^9.1.3",
+    "semantic-release": "^24.1.0",
+    "terser-webpack-plugin": "^5.3.10",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
   },
   "files": [
     "dist",
