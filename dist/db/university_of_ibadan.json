@@ -59,6 +59,207 @@
         "physiology",
         "virology"
       ]
+    },
+    {
+      "id": "university_of_ibadan__clinical_sciences",
+      "name": "clinical sciences",
+      "icon": "i-uis:clinic-medical",
+      "departments": [
+        "anaesthesia",
+        "community medicine",
+        "institute of child health",
+        "medicine",
+        "nuclear medicine",
+        "nursing",
+        "obstetrics and gynaecology",
+        "oto-rhino-laryngology",
+        "ophthalmology",
+        "paediatrics",
+        "physiotherapy",
+        "psychiatry",
+        "radiation oncology",
+        "radiology",
+        "surgery"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__dentistry",
+      "name": "dentistry",
+      "icon": "i-mingcute:dental-fill",
+      "departments": [
+        "child oral health",
+        "oral and maxillofacial surgery",
+        "oral pathology and oral medicine",
+        "periodontology and community dentistry",
+        "restorative dentistry"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__economics_and_management_sciences",
+      "name": "economics_and_management_sciences",
+      "icon": "i-material-symbols:business-center-sharp",
+      "departments": [
+        "accounting",
+        "banking and finance",
+        "economics",
+        "marketing and consumer studies"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__education",
+      "name": "education",
+      "icon": "i-streamline:quality-education-solid",
+      "departments": [
+        "adult educaiton",
+        "guidance and counselling",
+        "library archival and information studies",
+        "special education",
+        "arts and social science education",
+        "centre for educational media resource studies",
+        "early childhood and educational foundations",
+        "educational management",
+        "social work",
+        "science and technology education",
+        "health education",
+        "human kinetics"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__environmental_design_and_management",
+      "name": "environmental design and management",
+      "icon": "",
+      "departments": [
+        "architecture",
+        "estate management",
+        "quantity surveying",
+        "urban and regional planning"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__law",
+      "name": "law",
+      "icon": "i-octicon:law-16",
+      "departments": [
+        "commercial and industrial law",
+        "jurisprundence",
+        "private and property law",
+        "public law"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__multidisciplinary_studies",
+      "name": "multidisciplinary studies",
+      "icon": "",
+      "departments": [
+        "data and information science",
+        "mineral, petroleum, energy, economics and law",
+        "sustainable studies",
+        "peace, security and humanitarian studies",
+        "bioethics and medical humanities"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__nursing",
+      "name": "nursing",
+      "icon": "",
+      "departments": []
+    },
+    {
+      "id": "university_of_ibadan__pharmacy",
+      "name": "pharmacy",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "clinical pharmacy and pharmacy administration",
+        "pharmaceutical chemistry",
+        "pharmaceutical microbiology",
+        "pharmaceutical and industrial pharmacy",
+        "pharmacognosy",
+        "pharmacology and toxicology"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__public_health",
+      "name": "public health",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "environmental health sciences",
+        "health policy and management",
+        "health promotion and education",
+        "human nutrition"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__renewable_natural_resources",
+      "name": "renewable natural resources",
+      "icon": "i-carbon:energy-renewable",
+      "departments": [
+        "aquaculture and fisheries management",
+        "forest productions and products",
+        "wildlife and ecotourism management",
+        "social and environmental forestry"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__sciences",
+      "name": "sciences",
+      "icon": "i-material-symbols:science",
+      "departments": [
+        "botany",
+        "archaelogy and anthropology",
+        "chemistry",
+        "computer science",
+        "geography",
+        "geology",
+        "mathematics",
+        "microbiology",
+        "physics",
+        "statistics",
+        "zoology"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__technology",
+      "name": "technology",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "agricultural and environmental engineering",
+        "automotive engineering",
+        "civil engineering",
+        "electrical and electronics engineering",
+        "food technology",
+        "industrial and production engineering",
+        "mechanical engineering",
+        "petroleum engineering",
+        "wood products engineering",
+        "biomedical engineering"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__social_sciences",
+      "name": "social sciences",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "geography",
+        "political science",
+        "sociology",
+        "psychology"
+      ]
+    },
+    {
+      "id": "university_of_ibadan__vetinary_medicine",
+      "name": "veterinary medicine",
+      "icon": "i-streamline:pharmacy-solid",
+      "departments": [
+        "veterinary anatomy",
+        "veterinary physiology and biochemistry",
+        "veterinary microbiology",
+        "veterinary parasitology",
+        "veterinary pharmacology and toxicology",
+        "theriogenology",
+        "veterinary medicine",
+        "veterinary surgery and radiology",
+        "veterinary public health and preventive medicine"
+      ]
     }
   ]
 }
