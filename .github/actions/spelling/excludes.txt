@@ -1,4 +1,0 @@
-^LICENSE
-^\.github/workflows/
-^\.github/actions/spelling/
-^\node_modules/
