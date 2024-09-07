@@ -1,0 +1,222 @@
+{
+  "id": "university_of_ilorin",
+  "name": "University of Ilorin",
+  "faculties": [
+    {
+      "id": "university_of_ilorin__agriculture",
+      "name": "agriculture",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "agricultural economics and farm management",
+        "agricultural extension and rural development",
+        "agronomy",
+        "animal production",
+        "crop production",
+        "home economics and food science",
+        "forest resources management",
+        "aquaculture and fisheries"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__arts",
+      "name": "arts",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "arabic",
+        "christian studies",
+        "comparative and religious studies",
+        "english language",
+        "french",
+        "history and international studies",
+        "islamic studies",
+        "linguistics",
+        "the performing arts",
+        "yoruba"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__basic_clinical_sciences",
+      "name": "basic clinical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "chemical pathology and immunology",
+        "haematology and blood transfusion",
+        "medical laboratory science",
+        "pharmacology and therapeutics",
+        "pathology",
+        "medical microbiology and parasitology",
+        "physiotherapy"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__medical_sciences",
+      "name": "medical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": ["anatomy", "medical biochemistry", "physiology"]
+    },
+    {
+      "id": "university_of_ilorin__clinical_sciences",
+      "name": "clinical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "anaesthesia",
+        "behavioural sciences",
+        "dentistry",
+        "epidemiology and community health",
+        "family medicine",
+        "medicine",
+        "nursing science",
+        "obstetrics and gynaecology"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__communication_and_information_sciences",
+      "name": "communication and information science",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "computer science",
+        "information and communication science",
+        "library and information sciences",
+        "mass communication",
+        "telecommunication science"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__education",
+      "name": "education",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "adult and primary education",
+        "arts education",
+        "counsellor education",
+        "educational management",
+        "educational technology",
+        "human kinetics education",
+        "health promotion and environmental health education",
+        "science education",
+        "social sciences education"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__engineering_and_technology",
+      "name": "engineering and technology",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "agric and biosystems engineering",
+        "biomedical engineering",
+        "chemical engineering",
+        "civil engineering",
+        "computer science",
+        "electrical and electronics engineering",
+        "food and bioprocess engineering",
+        "materials and metallurgical engineering",
+        "mechanical engineering",
+        "water resources and environmental engineering"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__environmental_sciences",
+      "name": "environmental sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "architecture",
+        "estate management",
+        "quantity surveying",
+        "surverying and geoinformatics",
+        "urban and regional planning"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__law",
+      "name": "law",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "business law",
+        "common and islamic law",
+        "jurisprudence and international law",
+        "private and property law",
+        "public law"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__life_sciences",
+      "name": "life sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "biochemistry",
+        "microbiology",
+        "optometry and vision science",
+        "plant biology",
+        "zoology"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__management_sciences",
+      "name": "management sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "accounting",
+        "business admistration",
+        "finance",
+        "marketing",
+        "industrial relations and personnel management",
+        "public administration"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__pharmaceutical_sciences",
+      "name": "pharmaceutical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "clinical pharmacy and pharmacy practice",
+        "pharmaceutics and industrial pharmacy",
+        "pharm microbiology and biotechnology",
+        "pharmacognosy and drug development",
+        "pharmaceutical and medicinal chemistry",
+        "pharmacology and toxicology"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__physical_sciences",
+      "name": "physical sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "chemistry",
+        "geology",
+        "geophysics",
+        "industrial chemistry",
+        "mathematics",
+        "physics",
+        "statistics"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__social_sciences",
+      "name": "social sciences",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "criminology and security studies",
+        "economics",
+        "geography and environmental management",
+        "political science",
+        "psychology",
+        "social work",
+        "sociology"
+      ]
+    },
+    {
+      "id": "university_of_ilorin__veterinary_medicine",
+      "name": "veterinary medicine",
+      "icon": "i-material-symbols-wall-art",
+      "departments": [
+        "veterinary anatomy",
+        "veterinary medicine",
+        "veterinary microbiology",
+        "veterinary parasitology and entomology",
+        "veterinary pathology",
+        "veterinary pharmacology and toxicology",
+        "veterinary physiology and biochemistry"
+      ]
+    }
+  ]
+}
