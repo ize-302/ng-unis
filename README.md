@@ -8,12 +8,12 @@ A package for retrieving details of Nigerian universities including; name, relat
 
 ```sh
 # using npm
-npm install @ize-302/ng-unis
+npm install @i-302/ng-unis
 
 #OR
 
 #using yarn
-yarn add @ize-302/ng-unis
+yarn add @i-302/ng-unis
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ import {
   getUniversityById,
   getFacultiesByUniversityId,
   getDepartmentsByFacultyId,
-} from "@ize-302/ng-unis";
+} from "@i-302/ng-unis";
 
 // list all universities
 const universities = getUniversities();
@@ -34,6 +34,25 @@ const university = getUniversityById("university_of_lagos");
 const faculties = getFacultiesByUniversityId("university_of_lagos");
 //  return a list of all departments in a faculty
 const departments = getDepartmentsByFacultyId("university_of_lagos__sciences");
+```
+
+## Supported Universities
+
+```
+  University                                      |  Status
+--------------------------------------------------+----------
+  University of Lagos                             |   ✅
+  University of Ibadan                            |   ✅
+  University of Ilorin                            |   ✅
+  University of Benin                             |   ✅
+  Ahmadu Bello University                         |   🚧
+  Bayero University                               |   🚧
+  Federal University of Technology Akure          |   🚧
+  Obafemi Awolowo University                      |   🚧
+  University of Nigeria, Nsukka                   |   🚧
+  Federal University of Technology, Minna         |   🚧
+  Ladoke Akintola University of Technology        |   🚧
+  University of Abuja                             |   🚧
 ```
 
 ## How to contribute
