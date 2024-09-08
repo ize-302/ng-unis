@@ -23,7 +23,7 @@ import {
   getUniversities,
   getUniversityById,
   getFacultiesByUniversityId,
-  getDepartmentsByFacultyId,
+  getDepartments,
 } from "@i-302/ng-unis";
 
 // list all universities
@@ -33,7 +33,7 @@ const university = getUniversityById("university_of_lagos");
 // return a list of all faculties in a university
 const faculties = getFacultiesByUniversityId("university_of_lagos");
 //  return a list of all departments in a faculty
-const departments = getDepartmentsByFacultyId("university_of_lagos__sciences");
+const departments = getDepartments("university_of_lagos', 'sciences");
 ```
 
 ## Supported Universities
