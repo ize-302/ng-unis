@@ -3,7 +3,7 @@
   "name": "University of Ilorin",
   "faculties": [
     {
-      "id": "university_of_ilorin__agriculture",
+      "id": "agriculture",
       "name": "agriculture",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__arts",
+      "id": "arts",
       "name": "arts",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__basic_clinical_sciences",
+      "id": "basic_clinical_sciences",
       "name": "basic clinical sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "id": "university_of_ilorin__medical_sciences",
+      "id": "medical_sciences",
       "name": "medical sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": ["anatomy", "medical biochemistry", "physiology"]
     },
     {
-      "id": "university_of_ilorin__clinical_sciences",
+      "id": "clinical_sciences",
       "name": "clinical sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__communication_and_information_sciences",
+      "id": "communication_and_information_sciences",
       "name": "communication and information science",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__education",
+      "id": "education",
       "name": "education",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__engineering_and_technology",
+      "id": "engineering_and_technology",
       "name": "engineering and technology",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__environmental_sciences",
+      "id": "environmental_sciences",
       "name": "environmental sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__law",
+      "id": "law",
       "name": "law",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__life_sciences",
+      "id": "life_sciences",
       "name": "life sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__management_sciences",
+      "id": "management_sciences",
       "name": "management sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__pharmaceutical_sciences",
+      "id": "pharmaceutical_sciences",
       "name": "pharmaceutical sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__physical_sciences",
+      "id": "physical_sciences",
       "name": "physical sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__social_sciences",
+      "id": "social_sciences",
       "name": "social sciences",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "id": "university_of_ilorin__veterinary_medicine",
+      "id": "veterinary_medicine",
       "name": "veterinary medicine",
       "icon": "i-material-symbols-wall-art",
       "departments": [

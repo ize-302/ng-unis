@@ -42,11 +42,12 @@ export function getFacultiesByUniversityId(university_id) {
  * @param {string} faculty_id 
  * @returns {string[]}
  */
-export function getDepartmentsByFacultyId(faculty_id) {
+export function getDepartments(university_id, faculty_id) {
   if (typeof faculty_id !== 'string') {
     throw new Error('Invalid faculty_id. It should be a string.');
+  } else if (typeof university_id !== 'string') {
+    throw new Error('Invalid university_id. It should be a string.');
   }
-  const [university_id] = faculty_id.split('__')
   const faculties_result = db.find(university => university.id === university_id).faculties
   const departments_result = faculties_result.find(faculty => faculty.id === faculty_id)
   return departments_result == undefined ? null : departments_result.departments
