@@ -3,7 +3,7 @@
   "name": "University of Ibadan",
   "faculties": [
     {
-      "id": "university_of_ibadan__arts",
+      "id": "arts",
       "name": "arts",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__agriculture",
+      "id": "agriculture",
       "name": "agriculture",
       "icon": "i-material-symbols:potted-plant-sharp",
       "departments": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__basic_clinical_sciences",
+      "id": "basic_clinical_sciences",
       "name": "basic clinical sciences",
       "icon": "i-uis:clinic-medical",
       "departments": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__basic_medical_sciences",
+      "id": "basic_medical_sciences",
       "name": "basic medical sciences",
       "icon": "i-material-symbols:medical-services",
       "departments": [
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__clinical_sciences",
+      "id": "clinical_sciences",
       "name": "clinical sciences",
       "icon": "i-uis:clinic-medical",
       "departments": [
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__dentistry",
+      "id": "dentistry",
       "name": "dentistry",
       "icon": "i-mingcute:dental-fill",
       "departments": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__economics_and_management_sciences",
+      "id": "economics_and_management_sciences",
       "name": "economics and management sciences",
       "icon": "i-material-symbols:business-center-sharp",
       "departments": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__education",
+      "id": "education",
       "name": "education",
       "icon": "i-streamline:quality-education-solid",
       "departments": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__environmental_design_and_management",
+      "id": "environmental_design_and_management",
       "name": "environmental design and management",
       "icon": "",
       "departments": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__law",
+      "id": "law",
       "name": "law",
       "icon": "i-octicon:law-16",
       "departments": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__multidisciplinary_studies",
+      "id": "multidisciplinary_studies",
       "name": "multidisciplinary studies",
       "icon": "",
       "departments": [
@@ -159,13 +159,13 @@
       ]
     },
     {
-      "id": "university_of_ibadan__nursing",
+      "id": "nursing",
       "name": "nursing",
       "icon": "",
       "departments": []
     },
     {
-      "id": "university_of_ibadan__pharmacy",
+      "id": "pharmacy",
       "name": "pharmacy",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__public_health",
+      "id": "public_health",
       "name": "public health",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__renewable_natural_resources",
+      "id": "renewable_natural_resources",
       "name": "renewable natural resources",
       "icon": "i-carbon:energy-renewable",
       "departments": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__sciences",
+      "id": "sciences",
       "name": "sciences",
       "icon": "i-material-symbols:science",
       "departments": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__technology",
+      "id": "technology",
       "name": "technology",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__social_sciences",
+      "id": "social_sciences",
       "name": "social sciences",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "id": "university_of_ibadan__vetinary_medicine",
+      "id": "vetinary_medicine",
       "name": "veterinary medicine",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [

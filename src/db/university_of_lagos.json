@@ -3,7 +3,7 @@
   "name": "University of Lagos (UNILAG)",
   "faculties": [
     {
-      "id": "university_of_lagos__arts",
+      "id": "arts",
       "name": "arts",
       "icon": "i-material-symbols-wall-art",
       "departments": [
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__basic_medical_sciences",
+      "id": "basic_medical_sciences",
       "name": "basic medical sciences",
       "icon": "i-material-symbols:medical-services",
       "departments": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__clinical_sciences",
+      "id": "clinical_sciences",
       "name": "clinical sciences",
       "icon": "i-uis:clinic-medical",
       "departments": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__dental_sciences",
+      "id": "dental_sciences",
       "name": "dental sciences",
       "icon": "i-mingcute:dental-fill",
       "departments": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__education",
+      "id": "education",
       "name": "education",
       "icon": "i-streamline:quality-education-solid",
       "departments": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__environmental_sciences",
+      "id": "environmental_sciences",
       "name": "environmental sciences",
       "icon": "i-material-symbols:source-environment",
       "departments": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__law",
+      "id": "law",
       "name": "law",
       "icon": "i-octicon:law-16",
       "departments": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__management_sciences",
+      "id": "management_sciences",
       "name": "management sciences",
       "icon": "i-material-symbols:business-center-sharp",
       "departments": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__pharmacy",
+      "id": "pharmacy",
       "name": "pharmacy",
       "icon": "i-streamline:pharmacy-solid",
       "departments": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__sciences",
+      "id": "sciences",
       "name": "sciences",
       "icon": "i-material-symbols:science",
       "departments": [
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__social_sciences",
+      "id": "social_sciences",
       "name": "social sciences",
       "icon": "i-fluent:people-audience-24-filled",
       "departments": [
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "id": "university_of_lagos__engineering",
+      "id": "engineering",
       "name": "engineering",
       "icon": "i-material-symbols:engineering-rounded",
       "departments": [
